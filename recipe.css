@@ -1,0 +1,67 @@
+body{
+    background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+}
+h1{
+    background-color: #F0F0F0;
+    color: #A4A400;
+    text-align:center;
+    text-decoration:underline;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    text-decoration:underline;
+    font-size: 18pt;
+}
+p {
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+    font-style: italic;
+    background-color: #FFFFC8;
+    text-indent:50px;
+}
+
+a {
+    color: #A4A400;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+}
+
+ul.a {
+    list-style-type: square;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+}
+
+ul.b {
+    list-style-type: circle;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+}
+
+ul.c {
+    list-style-type: none;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+    font-style: italic;
+    background-color: #FFFFC8;
+}
+ol {
+    list-style-type: decimal;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+}
+pre {
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia、Garamond, serif;
+}
