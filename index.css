@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://i01piccdn.sogoucdn.com/d1c23ae7eef71363");
+}
+
+h1{
+    background-color: rgb(225, 236, 65);
+    color: black;
+    text-align:center;
+    text-decoration:underline;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    font-weight: bold;
+}
+
+h2.a {
+    background-color: #FFFFC8;
+    color: #A4A400;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    text-decoration:underline;
+    font-size: 18pt;
+}
+
+h2.b {
+    background-color: #FFFFC8;
+    color: #A4A400;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    text-decoration:underline;
+    text-align:center;
+    font-size: 18pt;
+}
+
+h2.c {
+    background-color: #FFFFC8;
+    color: #A4A400;
+    font-family: Century Gothic, Futura, Verdana, serif;
+    text-decoration:underline;
+    text-align:right;
+    font-size: 18pt;
+}
+p {
+    color: #404040;
+    font-size: 20pt;
+    font-family: Georgia、Garamond, serif;
+    font-style: italic;
+    text-align: center;
+    background-color: #FFFFC8;
+}
+
+.a {
+    text-align: left;
+}
+
+.b {
+    text-align: center;
+}
+.c {
+    text-align: right;
+}
